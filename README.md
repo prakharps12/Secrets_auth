@@ -1,6 +1,6 @@
 # Secrets_auth
-An application in which you can share your secrtes(confessions) anonymously.  
+An application in which you can share your secrets/confessions anonymously.  
   
-Other users can see those secrets.  
+Other users can see those secrets/confessions .  
   
-Secrets appear randomly on screen.  
+Secrets/Confessions appear randomly on screen.  
